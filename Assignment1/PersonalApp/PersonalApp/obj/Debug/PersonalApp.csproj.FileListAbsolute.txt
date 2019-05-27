@@ -1,0 +1,7 @@
+E:\BITM\Assignment\PersonalApp\PersonalApp\bin\Debug\PersonalApp.exe.config
+E:\BITM\Assignment\PersonalApp\PersonalApp\bin\Debug\PersonalApp.exe
+E:\BITM\Assignment\PersonalApp\PersonalApp\bin\Debug\PersonalApp.pdb
+E:\BITM\Assignment\PersonalApp\PersonalApp\obj\Debug\PersonalApp.csprojAssemblyReference.cache
+E:\BITM\Assignment\PersonalApp\PersonalApp\obj\Debug\PersonalApp.csproj.CoreCompileInputs.cache
+E:\BITM\Assignment\PersonalApp\PersonalApp\obj\Debug\PersonalApp.exe
+E:\BITM\Assignment\PersonalApp\PersonalApp\obj\Debug\PersonalApp.pdb
