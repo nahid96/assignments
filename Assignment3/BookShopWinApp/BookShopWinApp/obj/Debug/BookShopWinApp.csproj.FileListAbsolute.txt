@@ -1,0 +1,10 @@
+E:\BITM\Assignment\Assignment3\BookShopWinApp\BookShopWinApp\bin\Debug\BookShopWinApp.exe.config
+E:\BITM\Assignment\Assignment3\BookShopWinApp\BookShopWinApp\bin\Debug\BookShopWinApp.exe
+E:\BITM\Assignment\Assignment3\BookShopWinApp\BookShopWinApp\bin\Debug\BookShopWinApp.pdb
+E:\BITM\Assignment\Assignment3\BookShopWinApp\BookShopWinApp\obj\Debug\BookShopWinApp.csprojAssemblyReference.cache
+E:\BITM\Assignment\Assignment3\BookShopWinApp\BookShopWinApp\obj\Debug\BookShopWinApp.BookShop.resources
+E:\BITM\Assignment\Assignment3\BookShopWinApp\BookShopWinApp\obj\Debug\BookShopWinApp.Properties.Resources.resources
+E:\BITM\Assignment\Assignment3\BookShopWinApp\BookShopWinApp\obj\Debug\BookShopWinApp.csproj.GenerateResource.cache
+E:\BITM\Assignment\Assignment3\BookShopWinApp\BookShopWinApp\obj\Debug\BookShopWinApp.csproj.CoreCompileInputs.cache
+E:\BITM\Assignment\Assignment3\BookShopWinApp\BookShopWinApp\obj\Debug\BookShopWinApp.exe
+E:\BITM\Assignment\Assignment3\BookShopWinApp\BookShopWinApp\obj\Debug\BookShopWinApp.pdb
